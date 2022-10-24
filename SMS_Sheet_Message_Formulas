@@ -1,0 +1,13 @@
+/**
+this section is the original formula to pull info for the SMS messages. if it ever needs to be edited this formula below was the original version, 
+archived here with other updated edits or additions added
+*/
+
+# From the tab: Step 2: UniqueTexts
+# FullTextMessage
+
+"Hello, Adam Padgett, are the following jobs ready for inspection scheduled on Tuesday, October, 25, 2022 for:
+Alexander Place Lot(s): 91
+If you've responded to our confirmation email, disregard this message. Please respond via text for quicker response time.
+Thank you,
+Southern Energy Management's Scheduling Team"
